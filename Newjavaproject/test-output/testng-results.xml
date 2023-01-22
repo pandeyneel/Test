@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-22T17:41:57Z" name="Default suite" finished-at="2023-01-22T17:42:25Z" duration-ms="27427">
+    <groups>
+    </groups>
+    <test started-at="2023-01-22T17:41:57Z" name="Default test" finished-at="2023-01-22T17:42:25Z" duration-ms="27427">
+      <class name="Testng.Upload_testing">
+        <test-method is-config="true" signature="lauch()[pri:0, instance:Testng.Upload_testing@7d446ed1]" started-at="2023-01-22T23:11:57Z" name="lauch" finished-at="2023-01-22T23:12:16Z" duration-ms="18502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lauch -->
+        <test-method signature="clickxbutton()[pri:0, instance:Testng.Upload_testing@7d446ed1]" started-at="2023-01-22T23:12:16Z" name="clickxbutton" finished-at="2023-01-22T23:12:16Z" duration-ms="116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickxbutton -->
+        <test-method signature="practicebutton()[pri:0, instance:Testng.Upload_testing@7d446ed1]" started-at="2023-01-22T23:12:16Z" name="practicebutton" finished-at="2023-01-22T23:12:21Z" duration-ms="4573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- practicebutton -->
+        <test-method signature="element()[pri:0, instance:Testng.Upload_testing@7d446ed1]" started-at="2023-01-22T23:12:21Z" name="element" finished-at="2023-01-22T23:12:23Z" duration-ms="2070" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- element -->
+        <test-method signature="uploadbutton()[pri:0, instance:Testng.Upload_testing@7d446ed1]" started-at="2023-01-22T23:12:23Z" name="uploadbutton" finished-at="2023-01-22T23:12:25Z" duration-ms="2081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uploadbutton -->
+        <test-method signature="chosefile()[pri:0, instance:Testng.Upload_testing@7d446ed1]" started-at="2023-01-22T23:12:25Z" name="chosefile" finished-at="2023-01-22T23:12:25Z" duration-ms="56" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chosefile -->
+      </class> <!-- Testng.Upload_testing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
